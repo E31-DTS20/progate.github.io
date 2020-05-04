@@ -17,7 +17,9 @@
   .header-right {
     display: none;
   }
-  
+  .extra3 {
+    width: 100%;
+  }
   .menu-icon {
     display: block;
   }
@@ -26,6 +28,9 @@
   }
   
   .facebook {
+    margin-bottom:10px;
+  }
+  .signup {
     margin-bottom:10px;
   }
   
