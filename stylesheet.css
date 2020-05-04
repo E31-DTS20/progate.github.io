@@ -20,12 +20,7 @@ a {
 .clear {
   clear: left;
 }
-.container {
-  max-width: 1170px;
-  width: 100%;
-  padding: 0 15px;
-  margin: 0 auto;
-}
+
 header {
   height: 65px;
   width: 100%;
@@ -138,8 +133,13 @@ header {
  color: #f0fcff;
  text-align: center;
  padding: 20px 40px;
- margin: 20px 347px;
+}
+
+.poin {
  line-height: 30px;
+ text-align: left;
+ padding: 10px 10px;
+ margin: 20px 347px;
 }
 
 a {
@@ -216,14 +216,14 @@ li {
   padding-top:25px;
 }
 
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display:none;
+.flex-list {
+  display: flex;
 }
 
+/* Tetapkan property flex di element .flex-list li */
+.flex-list li {
+  flex:auto;
+}
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -303,6 +303,3 @@ footer {
   background-color:#20B2AA;
   text-align:center;
 }
-
-
-
