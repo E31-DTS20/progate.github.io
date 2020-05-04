@@ -20,7 +20,6 @@ a {
 .clear {
   clear: left;
 }
-
 .container {
   max-width: 1170px;
   width: 100%;
@@ -63,14 +62,6 @@ header {
 
 .header-right a:hover {
   background-color: rgba(255, 255, 255, 0.3);
-}
-
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display:none;
 }
 
 .top-wrapper {
@@ -172,6 +163,12 @@ a[href$="go.id"] {
  padding: 2px 5px;
 }
 
+.poin {
+ line-height: 30px;
+ text-align: left;
+ padding: 10px 10px;
+ margin: 20px 347px;
+}
 a {
  text-decoration: none;
  color: #f0fcff;
@@ -217,6 +214,14 @@ li {
   background-color: #ff8db3 ;
   height:350px;
   padding-top:25px;
+}
+
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display:none;
 }
 
 .lesson-wrapper {
