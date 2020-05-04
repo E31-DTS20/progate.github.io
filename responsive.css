@@ -1,48 +1,8 @@
 /* Untuk Tablet */
 @media (max-width: 1000px) {
-  .lesson {
-    width: 50%;
-    margin-bottom: 50px;
-  }
 }
 
 /* Untuk Smartphone */
 @media (max-width: 670px) {
-  .lesson {
-    width: 100%;
-  }
-   .header {
-    width: 100%;
-  }
-  
-   .extra1 {
-    width: 100%;
-  }
-    .extra2 {
-    width: 100%;
-  }
-    .extra3 {
-    width: 100%;
-  }
-    .extra4 {
-    width: 100%;
-  }
-  
-  footer {
-    text-align: center;
-  }
-  
-  .btn{
-    width:100%;
-  }
-  
-  .facebook{
-    margin-bottom:10px;
-  }
-  
-  .top-wrapper{
-    text-align:left;
-    padding-top:130px;
-  }
   
 }
