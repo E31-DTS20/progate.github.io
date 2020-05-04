@@ -61,7 +61,7 @@ header {
 
 .top-wrapper {
   padding: 150px 0 100px 0;
-  background-image: url(TOP.jpg);
+  background-image: url(top.jpg);
   background-size: cover;
   color: black;
   text-align: center;
@@ -133,13 +133,8 @@ header {
  color: #f0fcff;
  text-align: center;
  padding: 20px 40px;
-}
-
-.poin {
- line-height: 30px;
- text-align: left;
- padding: 10px 10px;
  margin: 20px 347px;
+ line-height: 30px;
 }
 
 a {
@@ -289,12 +284,12 @@ li {
   box-shadow: none;
 }
 footer img {
-  width: 180px;
+  width: 125px;
 }
 
 footer p {
   color: #b3aeb5;
-  font-size: 18px;
+  font-size: 12px;
 }
 
 footer {
